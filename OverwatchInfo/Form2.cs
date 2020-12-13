@@ -41,6 +41,7 @@ namespace OverwatchInfo
 			Reload();
 		}
 
+		//long
 		private void Reload()
 		{
 			////visitingWinButton.Visible = true;
